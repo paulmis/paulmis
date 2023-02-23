@@ -4,7 +4,7 @@ Hi, I'm Paul. I like:
 - 📈 Event processing engines (C++, Typescript)
 - 💻 UI & visualization (React.js, Three.js)
 - 🤖 ML & data science (Python)
-- 🛠️ Microelectronics
+- 🛠️ Microelectronics and UAVs
 - 🏆 Hackathons and competitive programming
 
 ...and a nice cappucino, normal milk, no sugar, with cinnamon powder 🥴 Love dancing, geopolitics, travelling, and league (peak [top 20](league.png)).
