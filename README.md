@@ -14,4 +14,5 @@ Hi, I'm Paul. I like:
 - [**GDSC**](https://gdsc.community.dev/delft-university-of-technology/) | Google Developer Student Club Delft - I organize CS events for students and drive [**UNSGs**](https://sdgs.un.org/goals)
 - [**RSA**](https://rsadelft.nl/sign-up/) | Robotics Student Association - I'm leading the project to build a precision agriculture UAV
 - [**TUD**](https://www.tudelft.nl/) | TU Delft - Bachelor's CS, TA for SWE and embedded systems courses
+- [**AWS**](https://aws.amazon.com/) | Solutions Architect intern in 2022 & L4 starting 2023
 - 💼 part-time cloud devops @ Exact (ERP) 
