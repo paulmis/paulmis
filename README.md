@@ -16,4 +16,5 @@ Hi, I'm Paul. I like:
 - [**RSA**](https://rsadelft.nl/sign-up/) | Robotics Student Association - I'm leading the project to build a precision agriculture UAV
 - [**TUD**](https://www.tudelft.nl/) | TU Delft - Bachelor's CS, TA for SWE and embedded systems courses
 - [**Exact**](https://www.exact.com/) | Part-time cloud devops @ Exact (ERP) 
-... Solutions Architect intern @ AWS in 2022 & full-time starting 2023
+
+... and 2022 Solutions Architect intern @ AWS, full-time starting 2023
