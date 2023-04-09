@@ -1,14 +1,17 @@
 Hi, I'm Paul. I like:
 - 👁️ Computer vision (OpenCV)
-- ☁ Cloud archtiecture (AWS, Azure, GCP)
+- ☁ Cloud archtiecture (AWS, Azure, GCP, Terraform)
 - 📈 Event processing engines (C++, Typescript)
-- 💻 UI & visualization (React.js, Three.js)
 - 🤖 ML & data science (Python)
-- 🛠️ Microelectronics and UAVs
+- 💻 UI/UX & computer graphics (React.js, Three.js, C#)
+- 🛠️ System design
+- ⚙️ Microelectronics and UAVs
 - 🏆 Hackathons and competitive programming
 - 👨‍👦‍👦 Building and growing teams
 
-...and a good coffee ☕🥴 Love dancing, geopolitics, travel, and preivously league (peak [top 20](league.png)).
+...and a good coffee ☕🥴 Love dancing, geopolitics, travel, and *formerly* league (peak [top 20](league.png)).
+
+I also gavel with C, Haskell, Scala, VHDL, assembly, a bunch of script languages, and different SQL flavors.
 
 **Check out** these amazing organizations I'm part of:
 - [**MSD**](https://www.makerspacedelft.nl/) | Makerspace Delft - I manage PR and find cool partners to work with
